@@ -1,5 +1,5 @@
 const multiplyArray = (val) => {
-    // please write your solution here
+    // please write your solution here. Good luck
   
 }
 
