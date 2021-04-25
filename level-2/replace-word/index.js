@@ -3,13 +3,7 @@ const idx = Math.floor(Math.random() * 4)
 
 const main = (data, message) => {
   // code here
-  let arrMessage = message.split(' ')
-  let idxName = arrMessage.indexOf('{name}')
-  let idxGPA = arrMessage.indexOf('{GPA}')
 
-  arrMessage.splice(idxName, 1, data.name)
-  arrMessage.splice(idxGPA, 1, data.GPA)
-  return arrMessage.join(' ')
 }
 
 // don't change code below

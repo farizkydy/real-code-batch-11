@@ -1,6 +1,6 @@
 function designerPdfViewer(h, word) {
   
-    }
+}
 
     const result = (testStudent, testCase) => testStudent === testCase
 
